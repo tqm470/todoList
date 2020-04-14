@@ -1,3 +1,4 @@
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TodoApp.Domain.Entity;
@@ -22,6 +23,15 @@ namespace TodoApp.Api.Controllers
         public async Task<IActionResult> createItem([FromBody] Item data)
         {
             await _repo.Insert(data);
+            await _repo.SaveChanges();
+            return Ok();
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> updateItem([FromBody] Item data, Guid id)
+        {
+            Item entry = await _repo.Select(id);
+            entry = data;
             await _repo.SaveChanges();
             return Ok();
         }
