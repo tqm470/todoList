@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using TodoApp.Domain.Entity;
 using TodoApp.Domain.Repository;
 
@@ -7,6 +8,11 @@ namespace TodoApp.Infra.Repository
     {
         public ItemRepository(AppDbContext appDbContext) : base(appDbContext)
         {
+        }
+
+        public Task SaveChanges()
+        {
+            return _context.SaveChangesAsync();
         }
     }
 }
