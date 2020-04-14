@@ -1,0 +1,8 @@
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\bin\Debug\netstandard2.0\domain.deps.json
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\bin\Debug\netstandard2.0\domain.dll
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\bin\Debug\netstandard2.0\domain.pdb
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\obj\Debug\netstandard2.0\domain.csprojAssemblyReference.cache
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\obj\Debug\netstandard2.0\domain.AssemblyInfoInputs.cache
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\obj\Debug\netstandard2.0\domain.AssemblyInfo.cs
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\obj\Debug\netstandard2.0\domain.dll
+C:\Dev\Non_Ubistart_Projects\TodoListProject\domain\obj\Debug\netstandard2.0\domain.pdb

@@ -1,0 +1,11 @@
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\bin\Debug\netstandard2.0\infra.deps.json
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\bin\Debug\netstandard2.0\infra.dll
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\bin\Debug\netstandard2.0\infra.pdb
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\bin\Debug\netstandard2.0\domain.dll
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\bin\Debug\netstandard2.0\domain.pdb
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.csprojAssemblyReference.cache
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.AssemblyInfoInputs.cache
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.AssemblyInfo.cs
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.csproj.CopyComplete
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.dll
+C:\Dev\Non_Ubistart_Projects\TodoListProject\infra\obj\Debug\netstandard2.0\infra.pdb
